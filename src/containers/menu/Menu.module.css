@@ -1,0 +1,10 @@
+.myActive{
+    color:red !important;
+    font-weight: bold;
+}
+.sideMenu{
+    height: 90vh;
+    width: 20vw;
+    margin-left: -2.2rem;
+    background-color: antiquewhite;
+}
